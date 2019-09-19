@@ -20,3 +20,12 @@ Automation for Linkedin
         lb.login()
         lb.clickConn()
         lb.closeDriver()
+
+
+# Contribution [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
+- Fork this repo
+
+- Add new features
+
+- Create a new pull request for this branch
